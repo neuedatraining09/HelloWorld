@@ -32,4 +32,3 @@ public class Conditions1 {
         }
     }
 }
-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
